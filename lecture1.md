@@ -44,3 +44,17 @@ X   X
 X   X
 ```
 You can do this recursively or you can perhaps just iterate line by line.
+
+### Imperative Paradigm
+In the imperative paradigm, a program is just a sequence of instructions manipulating memory data directly.
+* This fits the Von Neumann architecture closely.
+* When you pass parameters, they are passed by reference.
+I.e. Think of this as Assembly.
+
+### Functional Paradigm
+In the functional pradigm, a program is a collection of functions manipulating the data.
+* Variables are names which may or may not map to a memory location at any given time.
+* You work with the variable names rather than the memory locations directly.
+* When passing parameters, you may pass by value.
+* You can have recursion here rather than iteration.
+I.e. Scheme/Lisp
