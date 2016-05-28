@@ -45,7 +45,6 @@ X   X
 ```
 You can do this recursively or you can perhaps just iterate line by line.
 
-
 ### Imperative Paradigm
 In the imperative paradigm, a program is just a sequence of instructions manipulating memory data directly.
 * This fits the Von Neumann architecture closely.
