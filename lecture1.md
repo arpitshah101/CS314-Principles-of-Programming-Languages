@@ -52,7 +52,7 @@ In the imperative paradigm, a program is just a sequence of instructions manipul
 I.e. Think of this as Assembly.
 
 ### Functional Paradigm
-In the functional pradigm, a program is a collection of functions manipulating the data.
+In the functional paradigm, a program is a collection of functions manipulating the data.
 * Variables are names which may or may not map to a memory location at any given time.
 * You work with the variable names rather than the memory locations directly.
 * When passing parameters, you may pass by value.
